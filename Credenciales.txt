@@ -20,3 +20,9 @@ Fecha de vencimiento: 2026-06-11
 
 
 Para iniciar sesión en la aplicación de Outlook te lo deje configurado para que solo debas cambiar el puerto SMTP de 465 y lo uses con STARTTLS y no con SSL
+
+Formspree
+
+User:hostinger.econde@gmail.com
+
+Password: vOrSKOYoleo6$
