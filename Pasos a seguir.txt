@@ -8,18 +8,18 @@
 
 ** Servicios adicionales agregar asistencias técnicas.
 
-Agregar enfasis en productos de Siemens (Poca competencia)
+** Agregar enfasis en productos de Siemens (Poca competencia)
 
-En la imagen del home, poner las 3 marcas principales + su logo.
+** En la imagen del home, poner las 3 marcas principales + su logo.
 
-Agrandar texo home "Clientes que confian en nosotros"
+** Agrandar texo home "Clientes que confian en nosotros"
 
-Terminar de agregar los clientes del portfolio.
+** Terminar de agregar los clientes del portfolio.
 
-Productos paneo general de las 3 marcas mas importantes y comenzar a introducir "Building Management System (BMS)" de productos Siemens. Actuadores, controladores, sensores de temp/humedad, valvulas,etc.
+** Productos paneo general de las 3 marcas mas importantes y comenzar a introducir "Building Management System (BMS)" de productos Siemens. Actuadores, controladores, sensores de temp/humedad, valvulas,etc.
 
-Referencias de Clientes se va, eliminar por completo.
+** Referencias de Clientes se va, eliminar por completo.
 
-En icono "Email" redireccionar al correo.
+** En icono "Email" redireccionar al correo.
 
-Agregar sección "Trabaja con nosotros" para cargar CV's.
+** Agregar sección "Trabaja con nosotros" para cargar CV's.
