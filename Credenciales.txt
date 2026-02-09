@@ -1,0 +1,22 @@
+#############################################
+
+Cuenta acceso con la que se crea el servicio:
+
+Usuario Gmail: hostinger.econde@gmail.com
+Contraseña: vOrSKOYoleo6
+
+#############################################
+
+Cuenta de correo corporativa:
+
+Usuario CND Prevent: econde@cndprevent.com
+Contraseña: 357753h9WF$Q
+
+#############################################
+
+Fecha de vencimiento: 2026-06-11
+
+#############################################
+
+
+Para iniciar sesión en la aplicación de Outlook te lo deje configurado para que solo debas cambiar el puerto SMTP de 465 y lo uses con STARTTLS y no con SSL
